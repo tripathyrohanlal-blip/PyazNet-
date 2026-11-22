@@ -1,0 +1,6 @@
+{
+  "name": "PyazNet — Onion Supply Chain, AI Diagnostics & Direct Market",
+  "description": "Multilingual agricultural intelligence platform for onion farmers and buyers featuring IoT storage telemetry, Ochratoxin A & pest ML vision diagnostics, automated irrigation, India crop map, and blockchain traceability.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
